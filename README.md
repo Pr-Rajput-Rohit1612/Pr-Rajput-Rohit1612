@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Pr-Rajput-Rohit1612
-- 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...mern stack 
+- 👋 Hi, I’m Rajput-Rohit
+- 👀  interested in ...web development 
+- 🌱 MERN STACK DEVELOPER
 - 💞️ 
 - 📫 How to reach me--- @pr._rohit_rajput
-- 😄 Pronouns: ...
+
 
 
 <!---
